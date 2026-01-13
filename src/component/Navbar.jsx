@@ -10,6 +10,7 @@ const Navbar = () => {
         <li className='text-white mt-3'><Link to="/dashboard">Dashboard</Link></li>
         
       </ul>
+      
     </div>
   )
 }
